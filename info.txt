@@ -1,1 +1,2 @@
 This is my first local git repository.
+Adding this line after the first commit.
